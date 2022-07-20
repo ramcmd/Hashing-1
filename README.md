@@ -1,2 +1,3 @@
-# Problem-10
+# Hashing-1
 Group Anagrams
+Isomorphic Strings
